@@ -27,12 +27,11 @@ We developed a web-based platform where:
 
 ## 🛠️ **Technologies Used**  
 The stack includes:
-- **Frontend:** React.js (for a dynamic and responsive user interface)
-- **Backend:** Node.js with Express.js (for handling server-side operations)
+- **Frontend:** React.js with TypeScript (for a robust and type-safe dynamic user interface)
+- **Backend:** Node.js with Express.js and TypeScript (for handling server-side operations with better maintainability)
 - **Database:** MongoDB (for storing user, NGO, and event data)
 - **API Integration:** Google Maps API (for location services)
 - **Authentication:** Firebase (for secure user login and registration)
-- **Deployment:** Vercel (for hosting the web application)
 
 ---
 
